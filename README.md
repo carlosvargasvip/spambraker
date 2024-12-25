@@ -1,6 +1,6 @@
-# What is mailbroker?
+# What is spambraker?
 
-Mailbroker is an open source mail spam testing service. Send email to a special address then check your letter spam score on a website (or check your inbox for reply). Or upload email message (`.eml`) on a website. Or send POST HTTP request on API server then check results with another GET request.
+Spambraker is an open source mail spam testing service. Send email to a special address then check your letter spam score on a website (or check your inbox for reply). Or upload email message (`.eml`) on a website. Or send POST HTTP request on API server then check results with another GET request.
 
 ## Service main modules
 
