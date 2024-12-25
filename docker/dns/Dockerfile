@@ -1,6 +1,6 @@
 FROM alpine:3.17.3
 
-ENV TZ=Europe/Moscow
+ENV TZ=America/New_York
 
 RUN apk add --no-cache unbound gettext drill && \
     # Timezone
